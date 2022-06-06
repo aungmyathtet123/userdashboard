@@ -1,0 +1,25 @@
+{
+  "dashboard": "dashboard",
+  "Register Form":"Register Form",
+  "Enter Username":"Enter Username",
+  "Enter AccountId":"Enter AccountId",
+  "Enter Passsword":"Enter Passsword",
+  "At least 8 characters":"At least 8 characters",
+  "Register":"Register",
+  "!Register Alert":"!Register Alert",
+  "Close":"Close",
+  "User Register Dashboard":"User Register Dashboard",
+  "Login Form":"Login Form",
+  "Enter Phone or Email":"Enter Phone or Email",
+  "Login":"Login",
+  "Enter Confirm Password":"Enter Confirm Password",
+  "Logout":"Logout",
+  "Home":"Home",
+  "Userlists":"Userlists",
+  "Search":"Search",
+  "Sort by":"Sort by",
+  "Ban":"Ban",
+  "UNBan":"UNBan",
+  "Items per page":"Items per page"
+ 
+}
